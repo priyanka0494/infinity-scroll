@@ -73,7 +73,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Priyanka - priyankachavan4494@gmail.com
 
-Project Link: https://priyanka0494.github.io/nfinity-scroll/
+Project Link: https://priyanka0494.github.io/infinity-scroll/
 
 
 
